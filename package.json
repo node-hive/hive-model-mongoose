@@ -1,0 +1,24 @@
+{
+  "name": "hive-model-mongoose",
+  "version": "0.0.1",
+  "description": "A model class that merged mongoose with the hive-model structure",
+  "main": "index.js",
+  "dependencies": {
+    "hive-model": "~0.0.1",
+    "underscore": "~1.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tests/test_mongoose_model.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bingomanatee/hive-model-mongoose.git"
+  },
+  "keywords": [
+    "mongoose",
+    "hive"
+  ],
+  "author": "David Edelhart",
+  "license": "BSD"
+}
