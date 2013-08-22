@@ -1,6 +1,6 @@
 {
 	"name":            "hive-model-mongoose",
-	"version":         "0.0.1",
+	"version":         "0.0.2",
 	"description":     "A model class that merged mongoose with the hive-model structure",
 	"main":            "index.js",
 	"dependencies":    {
